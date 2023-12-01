@@ -7,8 +7,10 @@ The three tasks completed for my internship in C++ include:
 
 2) Simple Calculator
 ![image](https://github.com/TanushreeBorase/CODSOFT/assets/130696335/dadbd054-8da3-4f38-a1bd-e8073288a205)
+<img width="458" alt="image" src="https://github.com/TanushreeBorase/CODSOFT/assets/130696335/6d2192e6-faf1-4e72-acd6-4017b70ba007">
 
 
-3) Number Guessing Game
+
+4) Number Guessing Game
 <img width="618" alt="image" src="https://github.com/TanushreeBorase/CODSOFT/assets/130696335/b57fee53-1bd8-457d-a11a-fd20a521fea3">
 
