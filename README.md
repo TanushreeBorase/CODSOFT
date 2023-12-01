@@ -6,6 +6,7 @@ The three tasks completed for my internship in C++ include:
 
 
 2) Simple Calculator
+![image](https://github.com/TanushreeBorase/CODSOFT/assets/130696335/dadbd054-8da3-4f38-a1bd-e8073288a205)
 
 
 3) Number Guessing Game
