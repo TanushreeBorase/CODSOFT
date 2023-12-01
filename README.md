@@ -7,4 +7,7 @@ The three tasks completed for my internship in C++ include:
 
 2) Simple Calculator
 
+
 3) Number Guessing Game
+<img width="618" alt="image" src="https://github.com/TanushreeBorase/CODSOFT/assets/130696335/b57fee53-1bd8-457d-a11a-fd20a521fea3">
+
