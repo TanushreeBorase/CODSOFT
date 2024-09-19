@@ -1,4 +1,4 @@
-# CODSOFT
+# CPP Projects: 
 The three tasks completed for my internship in C++ include:
 
 1) Todolist
