@@ -4,6 +4,7 @@
 <img width="601" alt="image" src="https://github.com/TanushreeBorase/CODSOFT/assets/130696335/c0d457aa-fe38-45ff-9d4a-33968aaba328">
 
 
+
 2) Simple Calculator
    
 <img width="679" alt="image" src="https://github.com/TanushreeBorase/CODSOFT/assets/130696335/706def7a-6dd2-4619-ad47-013aa7dd7636">
